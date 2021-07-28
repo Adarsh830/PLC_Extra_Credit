@@ -1,0 +1,15 @@
+{
+  "name": "lex-syntax-semantic-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Sahba",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
